@@ -1,0 +1,27 @@
+{
+  "name": "blockexchange",
+  "version": "1.0.0",
+  "description": "Towards Tax Compliance by Design: A Decentralized Validation of Tax Processes Using Blockchain Technology",
+  "main": "truffle",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab-iwi.dfki.de:fatz/blockexchange.git"
+  },
+  "keywords": [
+    "tax",
+    "compliance",
+    "blockchain"
+  ],
+  "author": "Filip Fatz, Philip Hake and Peter Fettke",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "truffle-assertions": "^0.9.0"
+  }
+}
